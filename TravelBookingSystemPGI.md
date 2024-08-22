@@ -2,7 +2,7 @@ Project General Information
 
 Group Name: GROUP NAME 
 
-Project Title: Exped Air Booking System
+Project Title: Voyage Liner Booking System
 
 A. Problem Statement:
 
