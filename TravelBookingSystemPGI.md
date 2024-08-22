@@ -12,7 +12,7 @@ Service providers faces struggle with operational inefficiencies due to the lack
 
 B. Project Description:
 
-The Travel Booking System is a comprehensive online platform designed to simplify and enhance the travel booking experience for users while providing robust tools for service providers to manage their offerings effectively. This system will allow users to search, compare, and book a variety of travel services, including flights, hotels, car rentals, and vacation packages, all from a single, easy-to-use interface. For service providers, the platform will offer a centralized system for managing inventory, pricing, and customer relationships.
+The Voyage Liner Booking System is a comprehensive online platform designed to simplify and enhance the travel booking experience as the same time a reservation packagesa for travellers while providing robust tools for service providers to manage their offerings effectively. This system will allow users to search, compare, and book a variety of travel services, including hotels, car rentals, and vacation and tour packages, all from a single, easy-to-use interface. For service providers, the platform will offer a centralized system for managing inventory, pricing, and customer relationships.
 
 C. Project Objectives:
 
