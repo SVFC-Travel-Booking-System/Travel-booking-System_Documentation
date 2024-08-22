@@ -71,6 +71,6 @@ Prepared by:
 
 Group Members:
 
-Aligan, Rhed
+Aligan, Rhed N.
 Buenafe, Danilo Jr.
-Calubag, Camille
+Calubag, Camille C.
