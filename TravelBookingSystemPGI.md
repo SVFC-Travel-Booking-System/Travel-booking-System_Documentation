@@ -63,10 +63,14 @@ E. Project Deliverables:
 
 8. Deploy
   • User Acceptance Testing
+
+
 F. Benchmarking
 ex. Bustickets.ph
 
 G. Estimated Project Duration:
+
+
 4-5 Months
 
 Prepared by:
