@@ -32,12 +32,12 @@ In-Scope:
 1. Creation of user interfaces for both web and mobile applications.
 2. Development of a centralized platform integrating hotels, car rentals, and vacation packages.
 3. Implementation of secure payment gateways supporting multiple currencies.
-4. Building a robust customer support system, including AI chatbot functionality.
+4. Building a robust customer support system, including chatbot assistant functionality.
 5. Post-launch support and continuous improvement framework.
 
 Out-of-Scope:
 
-1. Direct management of travel services (e.g., operating flights or hotels).
+1. Direct management of travel services (e.g., reservations and hotels).
 2. Development of travel insurance products.
 3. Physical infrastructure for travel services.
    
