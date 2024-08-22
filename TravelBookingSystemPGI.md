@@ -68,10 +68,10 @@ E. Project Deliverables:
 F. Benchmarking
 ex. Bustickets.ph
 
+
 G. Estimated Project Duration:
-
-
 4-5 Months
+
 
 Prepared by:
 
