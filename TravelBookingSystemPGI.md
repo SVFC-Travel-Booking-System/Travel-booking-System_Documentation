@@ -6,7 +6,7 @@ Project Title: Voyage Liner Booking System
 
 A. Problem Statement:
 
-Travelers lack a centralized, user-friendly platform that allows them to efficiently search, compare, and book travel services across multiple providers in real-time. The current fragmented system requires users to visit multiple websites or use different applications to complete their bookings, leading to inconsistent user experiences, potential errors, and missed opportunities for savings.
+Travelers lack a centralized, user-friendly platform that allows them to accomodate their request services conviniently, efficiently search, compare, and book travel services across multiple providers in real-time. The current fragmented system requires users to visit multiple websites or use different applications to complete their bookings, leading to inconsistent user experiences, potential errors, and missed opportunities for savings.
 
 Service providers struggle with operational inefficiencies due to the lack of an integrated system that can handle dynamic pricing, inventory management, and personalized customer service. This fragmentation results in lost revenue opportunities, increased operational costs, and a failure to fully meet customer expectations.
 
