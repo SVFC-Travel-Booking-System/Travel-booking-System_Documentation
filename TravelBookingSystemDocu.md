@@ -1,6 +1,6 @@
 A. Introduction
 
-The Travel Booking System is a comprehensive, user-friendly platform designed to streamline the travel booking process for users and enhance operational efficiency for service providers. This platform integrates multiple travel services, including flights, hotels, car rentals, and vacation packages, into a single interface, allowing users to search, compare, and book services in real-time. The system aims to offer a seamless, secure, and personalized travel experience, catering to a global audience with multilingual and multi-currency support. By providing robust tools for service providers, the platform also facilitates dynamic pricing, inventory management, and customer relationship management, making it a valuable resource for the travel industry.
+The Travel Booking System is a comprehensive, user-friendly platform designed to streamline the travel booking process for users and enhance operational efficiency for service providers. This platform integrates multiple travel services including hotels, car rentals, and vacation packages, into a single interface, allowing users to search, compare, and book services in real-time. The system aims to offer a seamless, secure, and personalized travel experience, catering to a global audience with multilingual and multi-currency support. By providing robust tools for service providers, the platform also facilitates dynamic pricing, inventory management, and customer relationship management, making it a valuable resource for the travel industry.
 
 B. Project Features and Characteristics
 
@@ -30,7 +30,7 @@ C. Project Scope
 In-Scope:
 
 1. Creation of user interfaces for both web and mobile applications.
-2. Development of a centralized platform integrating flights, hotels, car rentals, and vacation packages.
+2. Development of a centralized platform integrating hotels, car rentals, and vacation packages.
 3. Implementation of secure payment gateways supporting multiple currencies.
 4. Building a robust customer support system, including AI chatbot functionality.
 5. Post-launch support and continuous improvement framework.
