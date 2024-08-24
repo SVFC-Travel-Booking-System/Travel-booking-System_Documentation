@@ -25,9 +25,7 @@ To develop a Travel booking System APP that will help manage the ______ with the
 3. User Accounts
 4. Itinerary Management
 5. Customer Reviews and Ratings
-6. Special Deals and Discounts
-7. Support and Assistance
-8. Travel Insurance
+
 
 D. Business Benefits:
 
@@ -35,7 +33,7 @@ D. Business Benefits:
 2.  Operational Efficiency
 3.  Improved Customer Experience
 4.  Data Collection and Analysis
-5.  Regulatory Compliance
+
 ..
 
 E. Project Deliverables:
