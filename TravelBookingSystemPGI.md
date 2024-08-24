@@ -18,7 +18,7 @@ C. Project Objectives:
 
 This Booking System project aims to revolutionize the travel booking experience by creating an intuitive, user-friendly platform that centralizes multiple travel services including packages reservation and tours. The primary objective is to simplify the booking process, enabling users to quickly search, compare, and book travel services from a single platform, thus enhancing user satisfaction. By integrating with major travel service providers, the system will offer real-time availability and pricing, ensuring that users have access to the best options at any given time.
 
-To develop a Travel booking System APP that will help manage the ______ with the following features: 
+To develop a Travel booking System APP that will help manage the travels and bookings with the following features: 
 
 1. Search and Compare
 2. Booking and Payment
