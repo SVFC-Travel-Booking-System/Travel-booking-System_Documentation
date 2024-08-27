@@ -81,7 +81,8 @@ The scope of the Voyage Liner Booking System project encompasses the development
 
 D. Work breakdown Structure
 
-![image](https://github.com/user-attachments/assets/eeca3617-5e7c-4c38-bade-34f2604b127b)
+![image](https://github.com/user-attachments/assets/4a3242b1-c923-480c-885d-f23f11e3f6a5)
+
 
 
 
