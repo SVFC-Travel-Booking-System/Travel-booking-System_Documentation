@@ -99,5 +99,31 @@ E. Functional Requirements
 
 F. Database Architecture
 
+1. Users Table
+   
+![image](https://github.com/user-attachments/assets/fb103fd2-6a83-4266-a386-ede227f92f0f)
+
+
+2. Tours Table
+   
+![image](https://github.com/user-attachments/assets/4660f827-a47e-4f35-aee1-f0e9e6e782ae)
+
+3. Booking Table
+
+![image](https://github.com/user-attachments/assets/e970afac-ad7d-4039-8a1c-2ae0c719e3ad)
+
+4. Payments Table
+
+ ![image](https://github.com/user-attachments/assets/a0ba8436-9ddc-463b-b849-b837d5a9304e)
+
+5. Reviews Table
+   
+ ![image](https://github.com/user-attachments/assets/e571d4af-60df-4d2c-b132-71020e4c16fa)
+
+6. Admin logs Table
+
+![image](https://github.com/user-attachments/assets/64767728-66cc-4b73-9d32-5de94134b562)
+
+
 Data Dictionary
  ERD
