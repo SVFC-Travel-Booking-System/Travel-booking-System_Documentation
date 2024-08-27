@@ -91,7 +91,7 @@ E. Functional Requirements
 
 1. User Requirments
 
-  ![image](https://github.com/user-attachments/assets/a98e8c99-0d76-4c63-917b-4964702ff6b5)
+ [ ![image](https://github.com/user-attachments/assets/a98e8c99-0d76-4c63-917b-4964702ff6b5)](https://www.figma.com/proto/DOut0cn1T1LaVLhwWvwZcc/Voyage-Liner-Booking-System?node-id=2-2&t=rCvhoa3EBVMOe87w-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=2%3A2&share=1)
 
 
 2. Use Case
