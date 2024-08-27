@@ -13,42 +13,73 @@ B. Project Features and Characteristics
 
 Key Features:
 
-1. User-Friendly Interface:
-- Intuitive and responsive design.
-- Mobile-friendly for on-the-go bookings.
+1. User Registration & Login:
+   
+  - Sign up and login functionality.
+  - Profile management with booking history.
+    
+2. Tour Search and Filters:
+   
+  - Search for tours based on destination, date, type (bus/car), and duration.
+  - Filters for price range, ratings, and availability.
 
-2. Comprehensive Search and Comparison:
-- Aggregates options from multiple providers.
-- Real-time search and comparison tools.
+3. Tour Details:
 
-3. Secure Booking and Payment:
-- Integrated payment gateways supporting multiple currencies.
-- Automated confirmation and e-ticketing.
+  - Detailed information about each tour including itinerary, images, available seats, pricing, and reviews.
+    
+4. Booking System:
+   
+  - Real-time seat availability for bus and car tours.
+  - Selection of tour date and time.
+  - Multiple payment options (credit card, PayPal, etc.).
+  - Booking confirmation with email notifications.
+   
+5. Admin Panel:
+   
+  - Manage tours, including adding, updating, or deleting tour packages.
+  - View and manage bookings.
+  - User management and role assignment.
+    
+6. Review & Rating System:
 
-4. Itinerary Management:
-- Manage bookings, receive updates, and make changes easily.
-- Integration with calendars and reminders.
-
-5. Customer Reviews and Ratings:
-- Integrated review system for feedback.
-- Aggregation of third-party reviews.
+  - Users can leave reviews and rate their experience after completing a tour.
+    
+7. Notifications:(Optional/Future Recommendation)
+   
+  - Email/SMS notifications for booking confirmations, reminders, and promotional offers.
+  
+8. Reporting:(Optional/Future Recommendation)
+   
+  - Generate reports on bookings, revenue, user activity, and more
   
 C. Project Scope
-In-Scope:
 
-1. Creation of user interfaces for both web and mobile applications.
-2. Development of a centralized platform integrating hotels, car rentals, and vacation packages.
-3. Implementation of secure payment gateways supporting multiple currencies.
-4. Building a robust customer support system, including chatbot assistant functionality.
-5. Post-launch support and continuous improvement framework.
+The scope of the Travel Tour Booking System project encompasses the development of a web-based platform designed to facilitate the booking of bus and car tours. The system will provide users with a user-friendly interface to search for and filter tours, view detailed information, and make secure bookings with real-time seat availability. Key features will include user account management, an admin panel for managing tours and bookings, and a review and rating system for user feedback. Additionally, the project will ensure secure payment processing and robust system performance, with a focus on delivering an intuitive and efficient booking experience for both users and tour operators.
 
-Out-of-Scope:
+1. Tour Search and Filtering
 
-1. Direct management of travel services (e.g., reservations and hotels).
-2. Development of travel insurance products.
-3. Physical infrastructure for travel services.
-   
+  - Users can search for tours based on criteria like destination, date, and type (bus or car). Filters for price, ratings, and availability will help users find suitable options quickly.
+
+2. Tour Booking System
+
+  - Users can book tours, choose dates, and pay securely via integrated payment gateways. Real-time seat availability and instant booking confirmations will enhance the user experience.
+
+3. User Management
+
+  -Features for user registration, login, and profile management. Users can view booking history and manage personal information securely.
+
+4. Admin Panel
+
+  - Admins can manage tours, view and handle bookings, and generate reports. The admin panel will also allow user management, ensuring smooth operation of the system.
+
+5. Customer Reviews and Ratings
+
+  - Users can leave reviews and ratings after completing a tour, helping others make informed decisions and providing valuable feedback for tour operators.
+
 D. Work breakdown Structure
+
+
+
 
 E. Functional Requirements
 
