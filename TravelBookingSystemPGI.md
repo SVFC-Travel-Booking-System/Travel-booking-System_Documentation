@@ -43,46 +43,29 @@ D. Business Benefits:
 E. Project Deliverables:
 
 1. Requirements
-   
   • Research and analysis
-  
   • Data Gathering
-  
   • User Stories
-  
   • User Requirements
-  
   • Use Case
-
   • Data Dictionary
-  
   • Entity Relationship Diagram
-  
   • Dataflow Diagram
 
-3. Design
-   
+2. Design
   • Low Fidelity
-  
   • High Fidelity
-  
   • Prototype
 
-
-5. Development
+4. Development
    
 
 6. Test
-   
   • Functional
-  
   • Non-Functional
-  
 
 8. Deploy
-   
   • User Acceptance Testing
-
 
 F. Benchmarking
 ex. Bustickets.ph
