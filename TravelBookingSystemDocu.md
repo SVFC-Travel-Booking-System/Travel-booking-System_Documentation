@@ -4,10 +4,13 @@ The Travel Booking System is a comprehensive, user-friendly platform designed to
 
 In today's fast-paced world, travel has become more accessible and essential than ever before. People are increasingly seeking convenient ways to explore new destinations, whether for leisure, business, or cultural experiences. The rise of online travel booking systems has revolutionized how people plan their trips, providing them with the flexibility to choose their mode of transportation, accommodations, and activities all from the comfort of their homes. However, while there are numerous platforms for booking flights and hotels, there is a noticeable gap in the market for specialized travel booking systems focused on tours via bus and car.
 
-This project aims to develop a comprehensive Travel Tour Booking System tailored specifically for bus and car travel. The system will allow users to search, compare, and book a variety of travel tours, offering detailed information about itineraries, pricing, and availability. By providing a user-friendly platform that streamlines the booking process, the system will cater to the needs of both casual travelers and tour operators, enhancing the overall travel experience.
+Voyage Liner Booking System, This project aims to develop a comprehensive Travel Tour Booking System tailored specifically for bus and car travel. The system will allow users to search, compare, and book a variety of travel tours, offering detailed information about itineraries, pricing, and availability. By providing a user-friendly platform that streamlines the booking process, the system will cater to the needs of both casual travelers and tour operators, enhancing the overall travel experience.
 
-According to P. Sharma, R. Singh, and S. K. Gupta (2018). "Online Travel Booking System: Challenges and Prospects." International Journal of Advanced Research in Computer Science, 9(3), 28-33.
-This study, published in the International Journal of Advanced Research in Computer Science, explores the challenges and potential improvements in online travel booking systems. The research highlights the importance of user experience, security, and integration of various travel services in creating a comprehensive platform. The findings from this study underscore the need for a specialized platform focusing on bus and car tours, where these challenges are often overlooked.
+According to P. Sharma, R. Singh, and S. K. Gupta (2018). "Online Travel Booking System: Challenges and Prospects.
+" International Journal of Advanced Research in Computer Science, 9(3), 28-33.
+
+This study, published in the International Journal of Advanced Research in Computer Science, explores the challenges and potential improvements in online travel booking systems. 
+The research highlights the importance of user experience, security, and integration of various travel services in creating a comprehensive platform. The findings from this study underscore the need for a specialized platform focusing on bus and car tours, where these challenges are often overlooked.
 
 B. Project Features and Characteristics
 
@@ -54,7 +57,7 @@ Key Features:
   
 C. Project Scope
 
-The scope of the Travel Tour Booking System project encompasses the development of a web-based platform designed to facilitate the booking of bus and car tours. The system will provide users with a user-friendly interface to search for and filter tours, view detailed information, and make secure bookings with real-time seat availability. Key features will include user account management, an admin panel for managing tours and bookings, and a review and rating system for user feedback. Additionally, the project will ensure secure payment processing and robust system performance, with a focus on delivering an intuitive and efficient booking experience for both users and tour operators.
+The scope of the Voyage Liner Booking System project encompasses the development of a web-based platform designed to facilitate the booking of bus and car tours. The system will provide users with a user-friendly interface to search for and filter tours, view detailed information, and make secure bookings with real-time seat availability. Key features will include user account management, an admin panel for managing tours and bookings, and a review and rating system for user feedback. Additionally, the project will ensure secure payment processing and robust system performance, with a focus on delivering an intuitive and efficient booking experience for both users and tour operators.
 
 1. Tour Search and Filtering
 
@@ -77,6 +80,7 @@ The scope of the Travel Tour Booking System project encompasses the development 
   - Users can leave reviews and ratings after completing a tour, helping others make informed decisions and providing valuable feedback for tour operators.
 
 D. Work breakdown Structure
+
 
 
 
