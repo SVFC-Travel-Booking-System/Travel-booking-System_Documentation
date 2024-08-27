@@ -126,4 +126,27 @@ F. Database Architecture
 
 
 Data Dictionary
+
+1. Users Table
+
+![image](https://github.com/user-attachments/assets/aa37a07e-ca59-4d1d-84b1-90a370b0ddfd)
+
+2. Tours Table
+
+![image](https://github.com/user-attachments/assets/a3e2451f-ba41-4fc1-b661-0259f7e320ca)
+
+3. Bookings Table
+
+![image](https://github.com/user-attachments/assets/1d0e2a4c-6299-43b8-ae04-8028c8b8dc26)
+
+4. Payments Table
+
+![image](https://github.com/user-attachments/assets/28dc6acb-01e6-416f-bc1c-4f77e7e4f08d)
+
+5. Reviews Table
+
+
+
+
+
  ERD
