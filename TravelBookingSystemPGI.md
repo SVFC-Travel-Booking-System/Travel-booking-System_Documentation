@@ -34,32 +34,49 @@ D. Business Benefits:
 3.  Improved Customer Experience
 4.  Data Collection and Analysis
 
-..
+
 
 E. Project Deliverables:
+
 1. Requirements
+   
   • Research and analysis
+  
   • Data Gathering
+  
   • User Stories
+  
   • User Requirements
+  
   • Use Case
+
   • Data Dictionary
+  
   • Entity Relationship Diagram
+  
   • Dataflow Diagram
 
-2. Design
+3. Design
+   
   • Low Fidelity
+  
   • High Fidelity
+  
   • Prototype
 
-4. Development
+
+5. Development
    
 
 6. Test
+   
   • Functional
+  
   • Non-Functional
+  
 
 8. Deploy
+   
   • User Acceptance Testing
 
 
@@ -68,6 +85,7 @@ ex. Bustickets.ph
 
 
 G. Estimated Project Duration:
+
 4-5 Months
 
 
