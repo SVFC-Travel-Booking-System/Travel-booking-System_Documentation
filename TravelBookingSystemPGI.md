@@ -36,7 +36,7 @@ To develop a Travel booking System APP that will help manage the travels and boo
 
    - Securely book travel services and complete payments directly within the app.
      
-3. User Accounts:\
+3. User Accounts:
    
    - Personalized user profiles allow for saving preferences, viewing past bookings, and managing upcoming trips.\
      
