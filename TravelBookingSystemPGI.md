@@ -14,6 +14,10 @@ In today's fast-paced world, travel has become more accessible and essential tha
 
 This project aims to develop a comprehensive Travel Tour Booking System tailored specifically for bus and car travel. The system will allow users to search, compare, and book a variety of travel tours, offering detailed information about itineraries, pricing, and availability. By providing a user-friendly platform that streamlines the booking process, the system will cater to the needs of both casual travelers and tour operators, enhancing the overall travel experience.
 
+According to P. Sharma, R. Singh, and S. K. Gupta (2018). "Online Travel Booking System: Challenges and Prospects. " International Journal of Advanced Research in Computer Science, 9(3), 28-33.
+
+This study, published in the International Journal of Advanced Research in Computer Science, explores the challenges and potential improvements in online travel booking systems. The research highlights the importance of user experience, security, and integration of various travel services in creating a comprehensive platform. The findings from this study underscore the need for a specialized platform focusing on bus and car tours, where these challenges are often overlooked.
+
 B. Project Description:
 
 The Voyage Liner Booking System is a comprehensive online platform designed to simplify and enhance the travel booking experience as the same time a reservation packagesa for travellers while providing robust tools for service providers to manage their offerings effectively. This system will allow users to search, compare, and book a variety of travel services including hotels, car rentals, and vacation and tour packages, all from a single, easy-to-use interface. For service providers, the platform will offer a centralized system for managing inventory, pricing, and customer relationships.
