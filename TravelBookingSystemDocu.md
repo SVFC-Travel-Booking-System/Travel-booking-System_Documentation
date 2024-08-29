@@ -95,6 +95,9 @@ E. Functional Requirements
 
 
 2. Use Case
+
+   ![image](https://github.com/user-attachments/assets/74f51040-995d-4a0e-8d81-25dde8e50fa4)
+
         
 
 F. Database Architecture
