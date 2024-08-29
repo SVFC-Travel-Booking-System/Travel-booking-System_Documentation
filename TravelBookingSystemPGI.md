@@ -28,18 +28,35 @@ This Booking System project aims to revolutionize the travel booking experience 
 
 To develop a Travel booking System APP that will help manage the travels and bookings with the following features: 
 
-1. Search and Compare
-2. Booking and Payment
-3. User Accounts
-4. Itinerary Management
-5. Customer Reviews and Ratings
+1. Search and Compare:
+   
+   - Users can easily find and compare different travel options to select the best deals available.
+     
+2. Booking and Payment:
+
+   - Securely book travel services and complete payments directly within the app.
+     
+3. User Accounts:\
+   
+   - Personalized user profiles allow for saving preferences, viewing past bookings, and managing upcoming trips.\
+     
+4. Itinerary Management:
+   
+   - Users can organize and access all details of their travel plans in a single, convenient location.
+   
+5. Customer Reviews and Ratings:
+  
+  - Users can read and provide feedback on services, helping others make informed booking decisions.
 
 
 D. Business Benefits:
 
 1. Increased Revenue and Sales
+   
 2.  Operational Efficiency
+   
 3.  Improved Customer Experience
+   
 4.  Data Collection and Analysis
 
 
