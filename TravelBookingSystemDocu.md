@@ -49,11 +49,8 @@ Key Features:
 
   - Users can leave reviews and rate their experience after completing a tour.
     
-7. Notifications:(Optional/Future Recommendation)
-   
-  - Email/SMS notifications for booking confirmations, reminders, and promotional offers.
   
-8. Reporting:(Optional/Future Recommendation)
+7. Reporting:
    
   - Generate reports on bookings, revenue, user activity, and more
   
