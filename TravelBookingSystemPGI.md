@@ -65,42 +65,42 @@ E. Project Deliverables:
 
 1. Requirements
    
-  • Research and analysis
+     • Research and analysis
   
-  • Data Gathering
+     • Data Gathering
   
-  • User Stories
+     • User Stories
   
-  • User Requirements
+     • User Requirements
   
-  • Use Case
+     • Use Case
   
-  • Data Dictionary
+     • Data Dictionary
   
-  • Entity Relationship Diagram
+     • Entity Relationship Diagram
   
-  • Dataflow Diagram
+     • Dataflow Diagram
 
 2. Design
    
-  • Low Fidelity
+     • Low Fidelity
 
-  • High Fidelity
+     • High Fidelity
   
-  • Prototype
+     • Prototype
 
 4. Development
    
 
 5. Test
    
-  • Functional
+     • Functional
   
-  • Non-Functional
+     • Non-Functional
 
 6. Deploy
    
-  • User Acceptance Testing
+     • User Acceptance Testing
 
 F. Benchmarking
 
