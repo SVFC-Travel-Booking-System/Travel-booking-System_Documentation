@@ -83,7 +83,8 @@ The scope of the Voyage Liner Booking System project encompasses the development
 
 D. Work breakdown Structure
 
-[![image](https://github.com/user-attachments/assets/4a3242b1-c923-480c-885d-f23f11e3f6a5)](https://www.figma.com/proto/DOut0cn1T1LaVLhwWvwZcc/Voyage-Liner-Booking-System?node-id=0-1&t=nWz0FciM7MM86MRs-1)
+![image](https://github.com/user-attachments/assets/e62338aa-68fe-4ef3-902e-edeec6c41dcd)
+
 
 
 
