@@ -96,7 +96,8 @@ E. Functional Requirements
 
 2. Use Case
 
-   ![image](https://github.com/user-attachments/assets/15e488b3-55be-48d6-9609-54483b5da532)
+   ![image](https://github.com/user-attachments/assets/0c46b8f0-faa3-4c29-b0b4-24f0ab786e45)
+
 
         
 
