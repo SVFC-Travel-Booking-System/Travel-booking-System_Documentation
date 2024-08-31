@@ -14,9 +14,9 @@ According to P. Sharma, R. Singh, and S. K. Gupta (2018). "Online Travel Booking
 This study, published in the International Journal of Advanced Research in Computer Science, explores the challenges and potential improvements in online travel booking systems. 
 The research highlights the importance of user experience, security, and integration of various travel services in creating a comprehensive platform. The findings from this study underscore the need for a specialized platform focusing on bus and car tours, where these challenges are often overlooked.
 
-B. Project Features and Characteristics
+# B. Project Features and Characteristics
 
-Key Features:
+## Key Features:
 
 1. User Registration & Login:
    
@@ -54,7 +54,7 @@ Key Features:
    
   - Generate reports on bookings, revenue, user activity, and more
   
-C. Project Scope
+# C. Project Scope
 
 The scope of the Voyage Liner Booking System project encompasses the development of a web-based platform designed to facilitate the booking of bus and car tours. The system will provide users with a user-friendly interface to search for and filter tours, view detailed information, and make secure bookings with real-time seat availability. Key features will include user account management, an admin panel for managing tours and bookings, and a review and rating system for user feedback. Additionally, the project will ensure secure payment processing and robust system performance, with a focus on delivering an intuitive and efficient booking experience for both users and tour operators.
 
@@ -78,7 +78,7 @@ The scope of the Voyage Liner Booking System project encompasses the development
 
   - Users can leave reviews and ratings after completing a tour, helping others make informed decisions and providing valuable feedback for tour operators.
 
-D. Work breakdown Structure
+# D. Work breakdown Structure
 
 ![image](https://github.com/user-attachments/assets/e62338aa-68fe-4ef3-902e-edeec6c41dcd)
 
@@ -87,7 +87,7 @@ D. Work breakdown Structure
 
 
 
-E. Functional Requirements
+# E. Functional Requirements
 
 1. User Requirments
 
@@ -102,7 +102,7 @@ E. Functional Requirements
 
         
 
-F. Database Architecture
+# F. Database Architecture
 
 1. Users Table
    
@@ -130,7 +130,7 @@ F. Database Architecture
 ![image](https://github.com/user-attachments/assets/64767728-66cc-4b73-9d32-5de94134b562)
 
 
-Data Dictionary
+# Data Dictionary
 
 1. Users Table
 
@@ -157,7 +157,7 @@ Data Dictionary
 ![image](https://github.com/user-attachments/assets/f32b1881-31af-4536-b4f7-99c7a82381ca)
 
 
- ERD
+ # ERD
 
  ![image](https://github.com/user-attachments/assets/b8a06098-883f-4f55-9068-debc83a68f6b)
 
