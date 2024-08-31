@@ -1,3 +1,5 @@
+Voyage Liner Booking System
+
 A. Introduction
 
 The Travel Booking System is a comprehensive, user-friendly platform designed to streamline the travel booking process for users and enhance operational efficiency for service providers. This platform integrates multiple travel services including hotels, car rentals, and vacation packages, into a single interface, allowing users to search, compare, and book services in real-time. The system aims to offer a seamless, secure, and personalized travel experience, catering to a global audience with multilingual and multi-currency support. By providing robust tools for service providers, the platform also facilitates dynamic pricing, inventory management, and customer relationship management, making it a valuable resource for the travel industry.
@@ -96,7 +98,8 @@ E. Functional Requirements
 
 2. Use Case
 
-   ![image](https://github.com/user-attachments/assets/0c46b8f0-faa3-4c29-b0b4-24f0ab786e45)
+  ![image](https://github.com/user-attachments/assets/423c4087-734f-45ba-84ff-e1290d55bf11)
+
 
 
         
