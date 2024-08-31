@@ -1,6 +1,6 @@
 # Project General Information
 
-## Group Name: GROUP NAME 
+ Group Name: GROUP NAME 
 
 # Project Title: Voyage Liner Booking System
 
