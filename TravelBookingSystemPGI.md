@@ -1,10 +1,10 @@
-Project General Information
+# Project General Information
 
-Group Name: GROUP NAME 
+## Group Name: GROUP NAME 
 
-Project Title: Voyage Liner Booking System
+# Project Title: Voyage Liner Booking System
 
-A. Problem Statement:
+## A. Problem Statement:
 
 Travelers lack a centralized, user-friendly platform that allows them to accomodate their request services conviniently, efficiently search, compare, and book travel services across multiple providers in real-time. The current fragmented system requires users to visit multiple websites or use different applications to complete their bookings, leading to inconsistent user experiences, potential errors, and missed opportunities for savings.
 
@@ -18,11 +18,11 @@ According to P. Sharma, R. Singh, and S. K. Gupta (2018). "Online Travel Booking
 
 This study, published in the International Journal of Advanced Research in Computer Science, explores the challenges and potential improvements in online travel booking systems. The research highlights the importance of user experience, security, and integration of various travel services in creating a comprehensive platform. The findings from this study underscore the need for a specialized platform focusing on bus and car tours, where these challenges are often overlooked.
 
-B. Project Description:
+## B. Project Description:
 
 The Voyage Liner Booking System is a comprehensive online platform designed to simplify and enhance the travel booking experience as the same time a reservation packagesa for travellers while providing robust tools for service providers to manage their offerings effectively. This system will allow users to search, compare, and book a variety of travel services including hotels, car rentals, and vacation and tour packages, all from a single, easy-to-use interface. For service providers, the platform will offer a centralized system for managing inventory, pricing, and customer relationships.
 
-C. Project Objectives:
+## C. Project Objectives:
 
 This Booking System project aims to revolutionize the travel booking experience by creating an intuitive, user-friendly platform that centralizes multiple travel services including packages reservation and tours. The primary objective is to simplify the booking process, enabling users to quickly search, compare, and book travel services from a single platform, thus enhancing user satisfaction. By integrating with major travel service providers, the system will offer real-time availability and pricing, ensuring that users have access to the best options at any given time.
 
@@ -49,7 +49,7 @@ To develop a Travel booking System APP that will help manage the travels and boo
   - Users can read and provide feedback on services, helping others make informed booking decisions.
 
 
-D. Business Benefits:
+## D. Business Benefits:
 
 1. Increased Revenue and Sales
    
@@ -61,7 +61,7 @@ D. Business Benefits:
 
 
 
-E. Project Deliverables:
+## E. Project Deliverables:
 
 1. Requirements
    
@@ -102,12 +102,12 @@ E. Project Deliverables:
    
      • User Acceptance Testing
 
-F. Benchmarking
+## F. Benchmarking
 
 ex. Bustickets.ph
 
 
-G. Estimated Project Duration:
+## G. Estimated Project Duration:
 
 4-5 Months
 
