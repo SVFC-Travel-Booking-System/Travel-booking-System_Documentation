@@ -68,7 +68,7 @@ The scope of the Voyage Liner Booking System project encompasses the development
 
 3. User Management
 
-  -Features for user registration, login, and profile management. Users can view booking history and manage personal information securely.
+  - Features for user registration, login, and profile management. Users can view booking history and manage personal information securely.
 
 4. Admin Panel
 
