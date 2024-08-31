@@ -18,39 +18,39 @@ The research highlights the importance of user experience, security, and integra
 
 ### Key Features:
 
-1. User Registration & Login:
+### 1. User Registration & Login:
    
   - Sign up and login functionality.
   - Profile management with booking history.
     
-2. Tour Search and Filters:
+### 2. Tour Search and Filters:
    
   - Search for tours based on destination, date, type (bus/car), and duration.
   - Filters for price range, ratings, and availability.
 
-3. Tour Details:
+### 3. Tour Details:
 
   - Detailed information about each tour including itinerary, images, available seats, pricing, and reviews.
     
-4. Booking System:
+### 4. Booking System:
    
   - Real-time seat availability for bus and car tours.
   - Selection of tour date and time.
   - Multiple payment options (credit card, PayPal, etc.).
   - Booking confirmation with email notifications.
    
-5. Admin Panel:
+### 5. Admin Panel:
    
   - Manage tours, including adding, updating, or deleting tour packages.
   - View and manage bookings.
   - User management and role assignment.
     
-6. Review & Rating System:
+### 6. Review & Rating System:
 
   - Users can leave reviews and rate their experience after completing a tour.
     
   
-7. Reporting:
+### 7. Reporting:
    
   - Generate reports on bookings, revenue, user activity, and more
   
@@ -58,23 +58,23 @@ The research highlights the importance of user experience, security, and integra
 
 The scope of the Voyage Liner Booking System project encompasses the development of a web-based platform designed to facilitate the booking of bus and car tours. The system will provide users with a user-friendly interface to search for and filter tours, view detailed information, and make secure bookings with real-time seat availability. Key features will include user account management, an admin panel for managing tours and bookings, and a review and rating system for user feedback. Additionally, the project will ensure secure payment processing and robust system performance, with a focus on delivering an intuitive and efficient booking experience for both users and tour operators.
 
-1. Tour Search and Filtering
+### 1. Tour Search and Filtering
 
   - Users can search for tours based on criteria like destination, date, and type (bus or car). Filters for price, ratings, and availability will help users find suitable options quickly.
 
-2. Tour Booking System
+### 2. Tour Booking System
 
   - Users can book tours, choose dates, and pay securely via integrated payment gateways. Real-time seat availability and instant booking confirmations will enhance the user experience.
 
-3. User Management
+### 3. User Management
 
   - Features for user registration, login, and profile management. Users can view booking history and manage personal information securely.
 
-4. Admin Panel
+### 4. Admin Panel
 
   - Admins can manage tours, view and handle bookings, and generate reports. The admin panel will also allow user management, ensuring smooth operation of the system.
 
-5. Customer Reviews and Ratings
+### 5. Customer Reviews and Ratings
 
   - Users can leave reviews and ratings after completing a tour, helping others make informed decisions and providing valuable feedback for tour operators.
 
@@ -104,55 +104,55 @@ The scope of the Voyage Liner Booking System project encompasses the development
 
 ## F. Database Architecture
 
-1. Users Table
+### 1. Users Table
    
 ![image](https://github.com/user-attachments/assets/fb103fd2-6a83-4266-a386-ede227f92f0f)
 
 
-2. Tours Table
+### 2. Tours Table
    
 ![image](https://github.com/user-attachments/assets/4660f827-a47e-4f35-aee1-f0e9e6e782ae)
 
-3. Booking Table
+### 3. Booking Table
 
 ![image](https://github.com/user-attachments/assets/e970afac-ad7d-4039-8a1c-2ae0c719e3ad)
 
-4. Payments Table
+### 4. Payments Table
 
  ![image](https://github.com/user-attachments/assets/a0ba8436-9ddc-463b-b849-b837d5a9304e)
 
-5. Reviews Table
+### 5. Reviews Table
    
  ![image](https://github.com/user-attachments/assets/e571d4af-60df-4d2c-b132-71020e4c16fa)
 
-6. Admin logs Table
+### 6. Admin logs Table
 
 ![image](https://github.com/user-attachments/assets/64767728-66cc-4b73-9d32-5de94134b562)
 
 
 # Data Dictionary
 
-1. Users Table
+### 1. Users Table
 
 ![image](https://github.com/user-attachments/assets/aa37a07e-ca59-4d1d-84b1-90a370b0ddfd)
 
-2. Tours Table
+### 2. Tours Table
 
 ![image](https://github.com/user-attachments/assets/a3e2451f-ba41-4fc1-b661-0259f7e320ca)
 
-3. Bookings Table
+### 3. Bookings Table
 
 ![image](https://github.com/user-attachments/assets/1d0e2a4c-6299-43b8-ae04-8028c8b8dc26)
 
-4. Payments Table
+### 4. Payments Table
 
 ![image](https://github.com/user-attachments/assets/28dc6acb-01e6-416f-bc1c-4f77e7e4f08d)
 
-5. Reviews Table
+### 5. Reviews Table
 
 ![image](https://github.com/user-attachments/assets/282d4fe0-fa1b-4e0e-98f5-4b13651de4ae)
 
-6. Admin logs Table
+### 6. Admin logs Table
 
 ![image](https://github.com/user-attachments/assets/f32b1881-31af-4536-b4f7-99c7a82381ca)
 
