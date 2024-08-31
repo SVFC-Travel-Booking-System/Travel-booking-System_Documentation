@@ -89,16 +89,16 @@ To develop a Travel booking System APP that will help manage the travels and boo
   
      • Prototype
 
-4. Development
+3. Development
    
 
-5. Test
+4. Test
    
      • Functional
   
      • Non-Functional
 
-6. Deploy
+5. Deploy
    
      • User Acceptance Testing
    
