@@ -108,6 +108,13 @@ To develop a Travel booking System APP that will help manage the travels and boo
       ![361663953-f32b1881-31af-4536-b4f7-99c7a82381ca](https://github.com/user-attachments/assets/059b8663-9664-4924-96a3-c46507384884)
 
 
+[USE CASE DIAGRAM] https://lucid.app/lucidchart/d8260353-3ce8-4663-a467-65da9f474498/edit?viewport_loc=-51%2C-199%2C1634%2C802%2C0_0&invitationId=inv_1c85ee02-343f-4766-8bc0-e17654786031
+
+![image](https://github.com/user-attachments/assets/6d96042a-b2a6-4a92-9b5c-d5b9eb21643a)
+
+
+
+
 • [Entity Relationship Diagram](https://lucid.app/lucidchart/dcdfd1f5-1a24-4b84-8cff-e7dac1c59a18/edit?viewport_loc=-370%2C20%2C2060%2C1492%2C0_0&invitationId=inv_28f9aeee-77de-4331-b9ce-6522b0b81e26)
   
 
