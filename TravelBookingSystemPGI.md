@@ -123,3 +123,9 @@ Aligan, Rhed N.
 Buenafe, Danilo Jr.
 
 Calubag, Camille C.
+
+
+ENTITY RELATIONSHIP DIAGRAM
+
+![Uploading image.png…]()
+
