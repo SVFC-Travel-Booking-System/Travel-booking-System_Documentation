@@ -110,9 +110,10 @@ To develop a Travel booking System APP that will help manage the travels and boo
 
 [USE CASE DIAGRAM] https://lucid.app/lucidchart/d8260353-3ce8-4663-a467-65da9f474498/edit?viewport_loc=-51%2C-199%2C1634%2C802%2C0_0&invitationId=inv_1c85ee02-343f-4766-8bc0-e17654786031
 
-![image](https://github.com/user-attachments/assets/6d96042a-b2a6-4a92-9b5c-d5b9eb21643a)
+![image](https://github.com/user-attachments/assets/be61fe74-a56f-44b6-8aa5-c4878687d39c)
 
 
+In this Use diagram define how each user roles works within the system. With use case diagram we identify what are the contraints and restriction can be allow to use each role such as admin and the client or users. Users can able to use the service and features of system. While administrator can able to maintain, operate, and improve on what features they have. 
 
 
 • [Entity Relationship Diagram](https://lucid.app/lucidchart/dcdfd1f5-1a24-4b84-8cff-e7dac1c59a18/edit?viewport_loc=-370%2C20%2C2060%2C1492%2C0_0&invitationId=inv_28f9aeee-77de-4331-b9ce-6522b0b81e26)
