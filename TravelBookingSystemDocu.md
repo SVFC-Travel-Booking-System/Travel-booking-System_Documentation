@@ -160,7 +160,7 @@ The scope of the Voyage Liner Booking System project encompasses the development
 ![image](https://github.com/user-attachments/assets/f32b1881-31af-4536-b4f7-99c7a82381ca)
 
 
- ## ERD
+ ## [ERD](https://lucid.app/lucidchart/dcdfd1f5-1a24-4b84-8cff-e7dac1c59a18/edit?viewport_loc=-370%2C20%2C2060%2C1492%2C0_0&invitationId=inv_28f9aeee-77de-4331-b9ce-6522b0b81e26)
 
  ![image](https://github.com/user-attachments/assets/b251e841-fd4a-434f-81d4-4d2b67b7a0fd)
 
