@@ -65,21 +65,22 @@ To develop a Travel booking System APP that will help manage the travels and boo
 
 1. Requirements
    
-     • Research and analysis
+• Research and analysis
   
-     • Data Gathering
+• Data Gathering
   
-     • User Stories
+• User Stories
   
-     • User Requirements
+• User Requirements
+![image](https://github.com/user-attachments/assets/e7644434-8231-405b-a01f-6fe1af28f5d3)
    
   
-     • Use Case
+• Use Case
    
    ![image](https://github.com/user-attachments/assets/595cf406-62f7-4cd9-b81a-850e76ca24d6)
 
   
-     • Data Dictionary
+• Data Dictionary
 
 1. Users Table
 
