@@ -119,7 +119,7 @@ In this Use case diagram define how each user roles works within the system. Wit
 
  ![image](https://github.com/user-attachments/assets/cff49430-6b26-40f9-8005-716635c564f0)
 
- In this graph, It shows different entity connected each other. With ERD, it help the development of the system what are the entity, what are the data types will be used with a keys. It helps developers to find out and organized each part of the system how it works through ERD. with Foreign and Primary Keys, 2 or more entities can be connected. Admin Log can see what happening in travelling books, transaction, even the client/user information between human computer interaction. 
+ In this graph, It shows different entity connected each other. With ERD, it help the development of the system what are the entity, what are the data types will be used with a keys. It helps developers to find out and organized each part of the system how it works through ERD. with Foreign and Primary Keys, 2 or more entities can be connected. Admin Log can see what happening in travelling books, transaction, even the client/user information between human computer interaction. With Angular for Front-end, this system will be works efficiently.
 
  
 • Dataflow Diagram
