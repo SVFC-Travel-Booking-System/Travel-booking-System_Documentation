@@ -84,7 +84,7 @@ To develop a Travel booking System APP that will help manage the travels and boo
 
 ![image](https://github.com/user-attachments/assets/be61fe74-a56f-44b6-8aa5-c4878687d39c)
 
-In this Use diagram define how each user roles works within the system. With use case diagram we identify what are the contraints and restriction can be allow to use each role such as admin and the client or users. Users can able to use the service and features of system. While administrator can able to maintain, operate, and improve on what features they have. 
+In this Use case diagram define how each user roles works within the system. With use case diagram we identify what are the contraints and restriction can be allow to use each role such as admin and the client or users. Users can able to use the service and features of system. While administrator can able to maintain, operate, and improve on what features they have. 
 
    • Data Dictionary
 
