@@ -78,7 +78,7 @@ To develop a Travel booking System APP that will help manage the travels and boo
   
 • Use Case
    
-   ![image](https://github.com/user-attachments/assets/595cf406-62f7-4cd9-b81a-850e76ca24d6)
+![image](https://github.com/user-attachments/assets/595cf406-62f7-4cd9-b81a-850e76ca24d6)
 
   
 • Data Dictionary
@@ -99,7 +99,7 @@ To develop a Travel booking System APP that will help manage the travels and boo
 
 ![361662724-28dc6acb-01e6-416f-bc1c-4f77e7e4f08d](https://github.com/user-attachments/assets/406f727f-3d62-4d7a-9ac9-be3b645cd4ad)
 
- 5. Reviews Table
+5. Reviews Table
 
 ![361663594-282d4fe0-fa1b-4e0e-98f5-4b13651de4ae](https://github.com/user-attachments/assets/a3343500-3239-4818-9515-96adda2564ca)
 
@@ -108,10 +108,12 @@ To develop a Travel booking System APP that will help manage the travels and boo
 ![361663953-f32b1881-31af-4536-b4f7-99c7a82381ca](https://github.com/user-attachments/assets/059b8663-9664-4924-96a3-c46507384884)
 
 
-     • Entity Relationship Diagram
-   ![image](https://github.com/user-attachments/assets/cff49430-6b26-40f9-8005-716635c564f0)
+• Entity Relationship Diagram
+
+ ![image](https://github.com/user-attachments/assets/cff49430-6b26-40f9-8005-716635c564f0)
   
-     • Dataflow Diagram
+• Dataflow Diagram
+
 
 3. Design
    
