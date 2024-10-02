@@ -119,7 +119,7 @@ To develop a Travel booking System APP that will help manage the travels and boo
 
 3. Design
    
-     • Low Fidelity
+     • [Low Fidelity](https://www.figma.com/design/8mREY0r2bIsN2CoEg9YjY1/Voyage-Liner-Booking?node-id=0-1&t=FpRznh8PzrNKeoE0-1)
 
      • High Fidelity
   
