@@ -83,29 +83,29 @@ To develop a Travel booking System APP that will help manage the travels and boo
   
     • Data Dictionary
 
-       1. Users Table
+    1. Users Table
 
-   ![361662213-aa37a07e-ca59-4d1d-84b1-90a370b0ddfd](https://github.com/user-attachments/assets/b22a0382-f93f-4cce-a022-86421a26b7fe)
+      ![361662213-aa37a07e-ca59-4d1d-84b1-90a370b0ddfd](https://github.com/user-attachments/assets/b22a0382-f93f-4cce-a022-86421a26b7fe)
 
-      2.Tours Table
+     2.Tours Table
  
-  ![361662381-a3e2451f-ba41-4fc1-b661-0259f7e320ca](https://github.com/user-attachments/assets/d5535259-217a-42fe-8091-a6402371c68f)
+     ![361662381-a3e2451f-ba41-4fc1-b661-0259f7e320ca](https://github.com/user-attachments/assets/d5535259-217a-42fe-8091-a6402371c68f)
 
-      3. Bookings Table
+     3. Bookings Table
  
- ![361662614-1d0e2a4c-6299-43b8-ae04-8028c8b8dc26](https://github.com/user-attachments/assets/cb3cd53d-5a4a-4ba8-99a0-33cc2f4dc095)
+     ![361662614-1d0e2a4c-6299-43b8-ae04-8028c8b8dc26](https://github.com/user-attachments/assets/cb3cd53d-5a4a-4ba8-99a0-33cc2f4dc095)
 
-      4. Payments Table
+     4. Payments Table
 
-   ![361662724-28dc6acb-01e6-416f-bc1c-4f77e7e4f08d](https://github.com/user-attachments/assets/406f727f-3d62-4d7a-9ac9-be3b645cd4ad)
+     ![361662724-28dc6acb-01e6-416f-bc1c-4f77e7e4f08d](https://github.com/user-attachments/assets/406f727f-3d62-4d7a-9ac9-be3b645cd4ad)
 
-       5. Reviews Table
+      5. Reviews Table
   
-   ![361663594-282d4fe0-fa1b-4e0e-98f5-4b13651de4ae](https://github.com/user-attachments/assets/a3343500-3239-4818-9515-96adda2564ca)
+      ![361663594-282d4fe0-fa1b-4e0e-98f5-4b13651de4ae](https://github.com/user-attachments/assets/a3343500-3239-4818-9515-96adda2564ca)
 
-       6. Admin logs Table
+      6. Admin logs Table
 
-  ![361663953-f32b1881-31af-4536-b4f7-99c7a82381ca](https://github.com/user-attachments/assets/059b8663-9664-4924-96a3-c46507384884)
+      ![361663953-f32b1881-31af-4536-b4f7-99c7a82381ca](https://github.com/user-attachments/assets/059b8663-9664-4924-96a3-c46507384884)
 
 
 • Entity Relationship Diagram
