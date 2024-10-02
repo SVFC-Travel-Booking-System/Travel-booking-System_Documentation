@@ -38,7 +38,7 @@ To develop a Travel booking System APP that will help manage the travels and boo
      
 3. User Accounts:
    
-   - Personalized user profiles allow for saving preferences, viewing past bookings, and managing upcoming trips.\
+   - Personalized user profiles allow for saving preferences, viewing past bookings, and managing upcoming trips.
      
 4. Itinerary Management:
    
