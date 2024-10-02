@@ -78,10 +78,11 @@ To develop a Travel booking System APP that will help manage the travels and boo
      • Data Dictionary
   
      • Entity Relationship Diagram
+   ![image](https://github.com/user-attachments/assets/cff49430-6b26-40f9-8005-716635c564f0)
   
      • Dataflow Diagram
 
-2. Design
+3. Design
    
      • Low Fidelity
 
@@ -89,16 +90,16 @@ To develop a Travel booking System APP that will help manage the travels and boo
   
      • Prototype
 
-3. Development
+4. Development
    
 
-4. Test
+5. Test
    
      • Functional
   
      • Non-Functional
 
-5. Deploy
+6. Deploy
    
      • User Acceptance Testing
    
@@ -126,6 +127,6 @@ Calubag, Camille C.
 
 
 
-![image](https://github.com/user-attachments/assets/cff49430-6b26-40f9-8005-716635c564f0)
+
 
 
