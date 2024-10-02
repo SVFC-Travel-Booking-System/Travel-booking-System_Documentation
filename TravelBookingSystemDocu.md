@@ -100,9 +100,12 @@ The scope of the Voyage Liner Booking System project encompasses the development
  ![image](https://github.com/user-attachments/assets/0372e9c6-2a37-4fb7-bff2-7c6e29804b3b)
 
 
+ [USE CASE DIAGRAM](https://lucid.app/lucidchart/d8260353-3ce8-4663-a467-65da9f474498/edit?viewport_loc=-51%2C-199%2C1634%2C802%2C0_0&invitationId=inv_1c85ee02-343f-4766-8bc0-e17654786031)
 
+![image](https://github.com/user-attachments/assets/be61fe74-a56f-44b6-8aa5-c4878687d39c)
 
-        
+In this Use case diagram define how each user roles works within the system. With use case diagram we identify what are the contraints and restriction can be allow to use each role such as admin and the client or users. Users can able to use the service and features of system. While administrator can able to maintain, operate, and improve on what features they have. 
+
 
 ## F. Database Architecture
 
@@ -162,5 +165,7 @@ The scope of the Voyage Liner Booking System project encompasses the development
  ## [ERD](https://lucid.app/lucidchart/dcdfd1f5-1a24-4b84-8cff-e7dac1c59a18/edit?viewport_loc=-370%2C20%2C2060%2C1492%2C0_0&invitationId=inv_28f9aeee-77de-4331-b9ce-6522b0b81e26)
 
  ![image](https://github.com/user-attachments/assets/b251e841-fd4a-434f-81d4-4d2b67b7a0fd)
+
+  In this graph, It shows different entity connected each other. With ERD, it help the development of the system what are the entity, what are the data types will be used with a keys. It helps developers to find out and organized each part of the system how it works through ERD. with Foreign and Primary Keys, 2 or more entities can be connected. Admin Log can see what happening in travelling books, transaction, even the client/user information between human computer interaction. With Angular for Front-end, this system will be works efficiently.
 
 
