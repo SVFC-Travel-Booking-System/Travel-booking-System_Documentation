@@ -96,7 +96,6 @@ The scope of the Voyage Liner Booking System project encompasses the development
 
 ### 2. Use Case
 
-  ![image](https://github.com/user-attachments/assets/423c4087-734f-45ba-84ff-e1290d55bf11)
   
  ![image](https://github.com/user-attachments/assets/0372e9c6-2a37-4fb7-bff2-7c6e29804b3b)
 
