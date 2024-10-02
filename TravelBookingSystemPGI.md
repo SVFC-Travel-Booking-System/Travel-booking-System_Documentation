@@ -111,6 +111,8 @@ To develop a Travel booking System APP that will help manage the travels and boo
 • Entity Relationship Diagram
 
  ![image](https://github.com/user-attachments/assets/cff49430-6b26-40f9-8005-716635c564f0)
+ 
+ https://lucid.app/lucidchart/dcdfd1f5-1a24-4b84-8cff-e7dac1c59a18/edit?viewport_loc=-370%2C20%2C2060%2C1492%2C0_0&invitationId=inv_28f9aeee-77de-4331-b9ce-6522b0b81e26
   
 • Dataflow Diagram
 
