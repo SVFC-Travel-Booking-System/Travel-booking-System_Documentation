@@ -127,5 +127,6 @@ Calubag, Camille C.
 
 ENTITY RELATIONSHIP DIAGRAM
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/cff49430-6b26-40f9-8005-716635c564f0)
+
 
