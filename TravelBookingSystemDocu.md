@@ -94,8 +94,8 @@ The scope of the Voyage Liner Booking System project encompasses the development
 | Number of Users	|Users|	System Features|	   Requirements                                                                                                
 |-----------------|-----|---------------------|-------------------------------------------------------------------------------------------------------------|
 |1	               |Admin|	User Management    |	- Manage Users: Admins can view and manage user accounts, handle support requests, and update user details.|
-|                 |     |  Booking Management |	- Manage Bookings: Admins can view, modify, and cancel bookings, process refunds, and handle booking-related 
-|                 |     |                                                                                                                              issues.|
+|                 |     |  Booking Management |	- Manage Bookings: Admins can view, modify, and cancel bookings, process refunds, and handle booking-related issues.
+|                 |     |                                                                                                                              |
 |                 |     |Tour Management	|- Add/Update/Remove Tours: Manage tour packages including adding, updating, or removing tours.|
 |                 |     |                   |- Manage Pricing and Availability: Set and adjust pricing and availability for tours.|
 |                 |     |Payments	   |- Payment Management: Admins can view payment transactions, process refunds, and resolve payment issues.|
