@@ -209,7 +209,8 @@ In this Use case diagram define how each user roles works within the system. Wit
 
 
  ## [ERD](https://lucid.app/lucidchart/dcdfd1f5-1a24-4b84-8cff-e7dac1c59a18/edit?viewport_loc=-370%2C20%2C2060%2C1492%2C0_0&invitationId=inv_28f9aeee-77de-4331-b9ce-6522b0b81e26)
-![image](https://github.com/user-attachments/assets/9e869dc0-7ca2-49e3-99b0-a31d25bf18cc)
+
+![image](https://github.com/user-attachments/assets/c26fbea0-5864-4941-9295-a69e6d53ea99)
 
 
   In this graph, It shows different entity connected each other. With ERD, it help the development of the system what are the entity, what are the data types will be used with a keys. It helps developers to find out and organized each part of the system how it works through ERD. with Foreign and Primary Keys, 2 or more entities can be connected. Admin Log can see what happening in travelling books, transaction, even the client/user information between human computer interaction. With Angular for Front-end, this system will be works efficiently.
