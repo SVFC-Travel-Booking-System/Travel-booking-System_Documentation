@@ -28,80 +28,35 @@ This Booking System project aims to revolutionize the travel booking experience 
 
 To develop a Travel booking System APP that will help manage the travels and bookings with the following features: 
 
-1. Search and Compare:
-   
-   - Users can easily find and compare different travel options to select the best deals available.
-     
-2. Booking and Payment:
-
-   - Securely book travel services and complete payments directly within the app.
-     
-3. User Accounts:
-   
-   - Personalized user profiles allow for saving preferences, viewing past bookings, and managing upcoming trips.
-     
-4. Itinerary Management:
-   
-   - Users can organize and access all details of their travel plans in a single, convenient location.
-   
-5. Customer Reviews and Ratings:
-  
-  - Users can read and provide feedback on services, helping others make informed booking decisions.
+| No. | Feature                      | Description                                                                                             |
+|-----|------------------------------|---------------------------------------------------------------------------------------------------------|
+| 1   | Search and Compare            | Users can easily find and compare different travel options to select the best deals available.           |
+| 2   | Booking and Payment           | Securely book travel services and complete payments directly within the app.                             |
+| 3   | User Accounts                 | Personalized user profiles allow for saving preferences, viewing past bookings, and managing upcoming trips. |
+| 4   | Itinerary Management          | Users can organize and access all details of their travel plans in a single, convenient location.         |
+| 5   | Customer Reviews and Ratings  | Users can read and provide feedback on services, helping others make informed booking decisions.          |
 
 
 ## D. Business Benefits:
 
-1. Increased Revenue and Sales
-   
-2.  Operational Efficiency
-   
-3.  Improved Customer Experience
-   
-4.  Data Collection and Analysis
+| No. | Benefit                           |
+|-----|-----------------------------------|
+| 1   | Increased Revenue and Sales       |
+| 2   | Operational Efficiency            |
+| 3   | Improved Customer Experience      |
+| 4   | Data Collection and Analysis      |
 
 
 
 ## E. Project Deliverables:
-```
-1. Requirements
-   
-    • Research and analysis
-  
-    • Data Gathering
-  
-    • User Stories
-  
-    • User Requirements
-  
-    • Use Case
 
-   • Data Dictionary
-
-   • Entity Relationship Diagram
-   • Dataflow Diagram
-
-
-3. Design
-   
-     • Low Fidelity
-     • High Fidelity
-  
-     • Prototype
-
-4. Development
-   
-
-5. Test
-   
-     • Functional
-  
-     • Non-Functional
-
-6. Deploy
-   
-     • User Acceptance Testing
-   
-```
+| No. | Phase           | Tasks                                                                 |
+|-----|-----------------|----------------------------------------------------------------------|
+| 1   | Requirements     | - Research and analysis <br> - Data Gathering <br> - User Stories <br> - User Requirements <br> - Use Case <br> - Data Dictionary <br> - Entity Relationship Diagram <br> - Dataflow Diagram |
+| 2   | Design           | - Low Fidelity <br> - High Fidelity <br> - Prototype                |
+| 3   | Development      | - Development                                                       |
+| 4   | Test             | - Functional <br> - Non-Functional                                  |
+| 5   | Deploy           | - User Acceptance Testing                                           |
 
 ## F. Benchmarking
 
