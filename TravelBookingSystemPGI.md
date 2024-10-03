@@ -62,7 +62,7 @@ To develop a Travel booking System APP that will help manage the travels and boo
 
 
 ## E. Project Deliverables:
-
+```
 1. Requirements
    
     • Research and analysis
@@ -72,63 +72,18 @@ To develop a Travel booking System APP that will help manage the travels and boo
     • User Stories
   
     • User Requirements
-
-    ![image](https://github.com/user-attachments/assets/e7644434-8231-405b-a01f-6fe1af28f5d3)
-   
   
     • Use Case
-   
-    ![image](https://github.com/user-attachments/assets/595cf406-62f7-4cd9-b81a-850e76ca24d6)
-
-  [USE CASE DIAGRAM](https://lucid.app/lucidchart/d8260353-3ce8-4663-a467-65da9f474498/edit?viewport_loc=-51%2C-199%2C1634%2C802%2C0_0&invitationId=inv_1c85ee02-343f-4766-8bc0-e17654786031)
-
-![image](https://github.com/user-attachments/assets/be61fe74-a56f-44b6-8aa5-c4878687d39c)
-
-In this Use case diagram define how each user roles works within the system. With use case diagram we identify what are the contraints and restriction can be allow to use each role such as admin and the client or users. Users can able to use the service and features of system. While administrator can able to maintain, operate, and improve on what features they have. 
 
    • Data Dictionary
 
-   1.Users Table
-
-   ![361662213-aa37a07e-ca59-4d1d-84b1-90a370b0ddfd](https://github.com/user-attachments/assets/b22a0382-f93f-4cce-a022-86421a26b7fe)
-
-   2.Tours Table
- 
-   ![361662381-a3e2451f-ba41-4fc1-b661-0259f7e320cs](https://github.com/user-attachments/assets/d5535259-217a-42fe-8091-a6402371c68f)
-
-   3.Bookings Table
- 
-   ![361662614-1d0e2a4c-6299-43b8-ae04-8028c8b8dc26](https://github.com/user-attachments/assets/cb3cd53d-5a4a-4ba8-99a0-33cc2f4dc095)
-
-   4.Payments Table
-
-   ![361662724-28dc6acb-01e6-416f-bc1c-4f77e7e4f08d](https://github.com/user-attachments/assets/406f727f-3d62-4d7a-9ac9-be3b645cd4ad)
-
-   5.Reviews Table
-  
-   ![361663594-282d4fe0-fa1b-4e0e-98f5-4b13651de4ae](https://github.com/user-attachments/assets/a3343500-3239-4818-9515-96adda2564ca)
-
-   6.Admin logs Table
-
-   ![361663953-f32b1881-31af-4536-b4f7-99c7a82381ca](https://github.com/user-attachments/assets/059b8663-9664-4924-96a3-c46507384884)
-
-
-
-• [Entity Relationship Diagram](https://lucid.app/lucidchart/dcdfd1f5-1a24-4b84-8cff-e7dac1c59a18/edit?viewport_loc=-370%2C20%2C2060%2C1492%2C0_0&invitationId=inv_28f9aeee-77de-4331-b9ce-6522b0b81e26)
-  
-
- ![image](https://github.com/user-attachments/assets/cff49430-6b26-40f9-8005-716635c564f0)
-
- In this graph, It shows different entity connected each other. With ERD, it help the development of the system what are the entity, what are the data types will be used with a keys. It helps developers to find out and organized each part of the system how it works through ERD. with Foreign and Primary Keys, 2 or more entities can be connected. Admin Log can see what happening in travelling books, transaction, even the client/user information between human computer interaction. With Angular for Front-end, this system will be works efficiently.
-
- 
-• Dataflow Diagram
+   • Entity Relationship Diagram
+   • Dataflow Diagram
 
 
 3. Design
    
-     • [Low Fidelity](https://www.figma.com/design/8mREY0r2bIsN2CoEg9YjY1/Voyage-Liner-Booking?node-id=0-1&t=FpRznh8PzrNKeoE0-1)
-
+     • Low Fidelity
      • High Fidelity
   
      • Prototype
@@ -146,7 +101,7 @@ In this Use case diagram define how each user roles works within the system. Wit
    
      • User Acceptance Testing
    
-
+```
 
 ## F. Benchmarking
 
