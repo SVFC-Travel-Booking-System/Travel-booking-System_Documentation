@@ -90,9 +90,10 @@ The scope of the Voyage Liner Booking System project encompasses the development
 ## E. Functional Requirements
 
 ### 1. User Requirements
-```
- Number of Users	Users	System Features	Requirements
-1	Admin	User Management	- Manage Users: Admins can view and manage user accounts, handle support requests, and update user details.
+
+| Number of Users	|Users|	System Features|	Requirements|
+|-----------------|-----|-----------------|--------------|
+|1	               |Admin|	User Management|	- Manage Users: Admins can view and manage user accounts, handle support requests, and update user details.
 Booking Management	- Manage Bookings: Admins can view, modify, and cancel bookings, process refunds, and handle booking-related issues.
 Tour Management	- Add/Update/Remove Tours: Manage tour packages including adding, updating, or removing tours.
 - Manage Pricing and Availability: Set and adjust pricing and availability for tours.
@@ -108,7 +109,7 @@ Booking Management	- Search and Filter: Search for tours by destination, date, a
 - Booking: Book tours, select travel dates, and receive booking confirmations.
 Payments	- Secure Payments: Integration with payment gateways for transaction processing.
 - Payment Confirmation: Users receive payment receipts and confirmations via email and/or SMS.
-```
+
 ### 2. Use Case
 
   
