@@ -130,7 +130,18 @@ In this Use case diagram define how each user roles works within the system. Wit
 
 ### 1. Users Table
 
-![image](https://github.com/user-attachments/assets/aa37a07e-ca59-4d1d-84b1-90a370b0ddfd)
+|Column Name	|Data Type	|Description	      |                 Constraints             |
+|--------------|-----------|--------------------|-----------------------------------------|
+|user_id	      |INT	      |Unique identifier for the user|.	PRIMARY KEY, AUTO_INCREMENT|
+|username	   |VARCHAR(50)|	Username for login.         |	   UNIQUE, NOT NULL           |
+|password_hash|	VARCHAR(255)|	Hashed password for authentication.	|NOT NULL            |
+|email	|VARCHAR(100)|	User's email address.                        |	UNIQUE, NOT NULL  |
+|phone_number	|VARCHAR(20)	|User's phone number.	                 |NULLABLE          |
+|first_name|	VARCHAR(50)	|User's first name.                        |	NOT NULL          |
+|last_name	|VARCHAR(50)|	User's last name.	                         |NOT NULL           |
+|user_role	|ENUM	|Role of the user (e.g., 'admin', 'user').|NOT NULL, DEFAULT 'user'     |
+|created_at	|DATETIME|	Timestamp of account creation.        |DEFAULT CURRENT_TIMESTAMP |
+|updated_at	|DATETIME|	Timestamp of last account update.   |	DEFAULT CUR                |
 
 ### 2. Tours Table
 
