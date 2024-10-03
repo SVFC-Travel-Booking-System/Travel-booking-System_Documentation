@@ -132,7 +132,7 @@ In this Use case diagram define how each user roles works within the system. Wit
 
 |Column Name	|Data Type	|Description	      |                 Constraints             |
 |--------------|-----------|--------------------|-----------------------------------------|
-|user_id	      |INT	      |Unique identifier for the user|.	PRIMARY KEY, AUTO_INCREMENT|
+|user_id	      |INT	      |Unique identifier for the user|	PRIMARY KEY, AUTO_INCREMENT   |
 |username	   |VARCHAR(50)|	Username for login.         |	   UNIQUE, NOT NULL           |
 |password_hash|	VARCHAR(255)|	Hashed password for authentication.	|NOT NULL            |
 |email	|VARCHAR(100)|	User's email address.                        |	UNIQUE, NOT NULL  |
@@ -141,7 +141,7 @@ In this Use case diagram define how each user roles works within the system. Wit
 |last_name	|VARCHAR(50)|	User's last name.	                         |NOT NULL           |
 |user_role	|ENUM	|Role of the user (e.g., 'admin', 'user').|NOT NULL, DEFAULT 'user'     |
 |created_at	|DATETIME|	Timestamp of account creation.        |DEFAULT CURRENT_TIMESTAMP |
-|updated_at	|DATETIME|	Timestamp of last account update.   |	DEFAULT CUR                |
+|updated_at	|DATETIME|	Timestamp of last account update.   |	DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP                |
 
 ## 2. Tours Table
 
