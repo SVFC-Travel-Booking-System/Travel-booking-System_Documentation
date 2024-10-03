@@ -102,7 +102,7 @@ The scope of the Voyage Liner Booking System project encompasses the development
 |                 |     |              |- Revenue Reports: Track revenue from bookings.  |
 |                 |     |             |- User Activity Reports: Monitor user activity and engagement with the system.|
 |2	               |General Users       |User Management	   |- Sign Up: Ability to create an account via email, phone, or social media.|                        
-|                 |                                         |- Login: Secure login with credentials.|
+|                 |                    |                     |- Login: Secure login with credentials.|
                                                             |- Profile Management: Users can update personal information, change passwords, and manage settings.|
 |                 |                    |Booking Management	|- Search and Filter: Search for tours by destination, date, and type (bus or car) with filters for  price, ratings, and availability. 
 |                  |             |                    |- Tour Details: View detailed tour information including itineraries, images, pricing, and seat  availability.                                                                                                                                       
