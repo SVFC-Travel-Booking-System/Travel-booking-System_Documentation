@@ -128,7 +128,7 @@ In this Use case diagram define how each user roles works within the system. Wit
 
 ### Data Dictionary
 
-### 1. Users Table
+## 1. Users Table
 
 |Column Name	|Data Type	|Description	      |                 Constraints             |
 |--------------|-----------|--------------------|-----------------------------------------|
