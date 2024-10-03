@@ -91,27 +91,28 @@ The scope of the Voyage Liner Booking System project encompasses the development
 
 ### 1. User Requirements
 
-| Number of Users	|Users|	System Features|	Requirements|
-|-----------------|-----|-----------------|--------------|
-|1	               |Admin|	User Management|	- Manage Users: Admins can view and manage user accounts, handle support requests, and update user details.|
-|                 |     |  Booking Management|	- Manage Bookings: Admins can view, modify, and cancel bookings, process refunds, and handle booking-related 
-                                                                                                                                                    issues.|
-|                  |     |Tour Management	|- Add/Update/Remove Tours: Manage tour packages including adding, updating, or removing tours.|
-                                          |- Manage Pricing and Availability: Set and adjust pricing and availability for tours.|
- |                  |    |Payments	   |- Payment Management: Admins can view payment transactions, process refunds, and resolve payment issues.|
- |                    |   |Reports	      |- Booking Reports: Generate reports on bookings, including completed, pending, and canceled bookings.|
- |                  |      |              |- Revenue Reports: Track revenue from bookings.  |
- |                   |      |             |- User Activity Reports: Monitor user activity and engagement with the system.|
-|2	               |General Users	 |User Management	   |- Sign Up: Ability to create an account via email, phone, or social media.|
-  |               |               |                      |- Login: Secure login with credentials.|
-  |                |               |                     |- Profile Management: Users can update personal information, change passwords, and manage settings.|
-  |                 |              |Booking Management	|- Search and Filter: Search for tours by destination, date, and type (bus or car) with filters for 
-   |                 |                                                                                                      price, ratings, and availability.|
-   |                  |             |                    |- Tour Details: View detailed tour information including itineraries, images, pricing, and seat 
-   |                   |                                                                                                                       availability.|
-   |                   |             |                   |- Booking: Book tours, select travel dates, and receive booking confirmations.|
-   |                   |            |Payments	         |- Secure Payments: Integration with payment gateways for transaction processing.|
-    |                  |              |                  |- Payment Confirmation: Users receive payment receipts and confirmations via email and/or SMS.|
+| Number of Users	|Users|	System Features|	   Requirements                                                                                                
+|-----------------|-----|---------------------|-------------------------------------------------------------------------------------------------------------|
+|1	               |Admin|	User Management    |	- Manage Users: Admins can view and manage user accounts, handle support requests, and update user details.|
+|                 |     |  Booking Management |	- Manage Bookings: Admins can view, modify, and cancel bookings, process refunds, and handle booking-related 
+|                 |     |                                                                                                                              issues.|
+|                 |     |Tour Management	|- Add/Update/Remove Tours: Manage tour packages including adding, updating, or removing tours.|
+|                 |     |                   |- Manage Pricing and Availability: Set and adjust pricing and availability for tours.|
+|                 |     |Payments	   |- Payment Management: Admins can view payment transactions, process refunds, and resolve payment issues.|
+|                 |     |Reports	      |- Booking Reports: Generate reports on bookings, including completed, pending, and canceled bookings.|
+|                 |     |              |- Revenue Reports: Track revenue from bookings.  |
+|                 |     |             |- User Activity Reports: Monitor user activity and engagement with the system.|
+|2	               |General|            |
+|                 | Users |User Management	   |- Sign Up: Ability to create an account via email, phone, or social media.|
+|                 |            |                      |- Login: Secure login with credentials.|
+|                |               |                     |- Profile Management: Users can update personal information, change passwords, and manage settings.|
+|                 |              |Booking Management	|- Search and Filter: Search for tours by destination, date, and type (bus or car) with filters for 
+|                 |                                                                                                      price, ratings, and availability.|
+|                  |             |                    |- Tour Details: View detailed tour information including itineraries, images, pricing, and seat 
+|                   |                                                                                                                       availability.|
+|                   |             |                   |- Booking: Book tours, select travel dates, and receive booking confirmations.|
+|                   |            |Payments	         |- Secure Payments: Integration with payment gateways for transaction processing.|
+|                  |              |                  |- Payment Confirmation: Users receive payment receipts and confirmations via email and/or SMS.|
      
 ### 2. Use Case
 
