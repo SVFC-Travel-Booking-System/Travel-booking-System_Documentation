@@ -110,7 +110,7 @@ The scope of the Voyage Liner Booking System project encompasses the development
 |                   |            |Payments	         |- Secure Payments: Integration with payment gateways for transaction processing.|
 |                  |              |                  |- Payment Confirmation: Users receive payment receipts and confirmations via email and/or SMS.|
      
-### 2. Use Case
+## 2. Use Case
 
   
  ![image](https://github.com/user-attachments/assets/0372e9c6-2a37-4fb7-bff2-7c6e29804b3b)
