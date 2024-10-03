@@ -123,10 +123,10 @@ The scope of the Voyage Liner Booking System project encompasses the development
 In this Use case diagram define how each user roles works within the system. With use case diagram we identify what are the contraints and restriction can be allow to use each role such as admin and the client or users. Users can able to use the service and features of system. While administrator can able to maintain, operate, and improve on what features they have. 
 
 
-## F. Database Architecture
+## F. Data Dictionary
 
 
-## Data Dictionary
+
 
 ## 1. Users Table
 
