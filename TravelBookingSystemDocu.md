@@ -143,25 +143,69 @@ In this Use case diagram define how each user roles works within the system. Wit
 |created_at	|DATETIME|	Timestamp of account creation.        |DEFAULT CURRENT_TIMESTAMP |
 |updated_at	|DATETIME|	Timestamp of last account update.   |	DEFAULT CUR                |
 
-### 2. Tours Table
+## 2. Tours Table
 
-![image](https://github.com/user-attachments/assets/a3e2451f-ba41-4fc1-b661-0259f7e320ca)
+|Column Name	|Data Type	|   Description	             |                 Constraints           |
+|--------------|-----------|------------------------------|---------------------------------------|
+|tour_id       |  INT      |Unique identifier for the tour|         NOT NULL                      |
+|tour_name     |VARCHAR100 |Name of the tour              |         NOT NULL                      |
+|description   | TEXT      |Detailed discription of the tour|       NOT NULL                      |
+|price         |DECIMAL(10,2)|Price of the tour           |         NOT NULL                      |
+|start_date    |DATE       |Start date of the tour        |         NOT NULL                      |
+|end_date      |DATE       |End date of the tour          |         NOT NULL                      |
+|seats_available|INT       |Number of seats               |         NOT NULL                      |
+|image_url     |VARCHAR(255)|URL of the tour image        |         NULLABLE                      |
+|created_at    |DATETIME   |Timestamp of tour creation    |         DEFAULT CURRENT_TIMESTAMP     |
+|updated_at    |DATETIME   |Timestamp of last tour update |DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP|
 
-### 3. Bookings Table
+## 3. Bookings Table
 
-![image](https://github.com/user-attachments/assets/1d0e2a4c-6299-43b8-ae04-8028c8b8dc26)
+|Column Name	|Data Type	|   Description	             |                 Constraints           |
+|--------------|-----------|------------------------------|---------------------------------------|
+|booking_id    | INT       | Unique identifier for the booking| PRIMARY KEY, AUTO_INCREMENT       |
+|user_id       | INT       | Refernce to the user who made the booking| FOREIGN KEY(users.user_id)|
+|tour_id       | INT       | Refernce to the booked tour  | FOREIGN KEY (tours.tour_id)           |
+|bokking date  | DATETIME  | Date and time o the booking  | DEFAULT CURRENT_TIMESTAMP             |
+|travel_date   | DATE      | Date of the tour             | NOT NULL                              |
+|seats_booked  | INT       | Number of seats booked       | NOT NULL                              |
+|total_amount  | DECIMAL(10,2)| Total amount paid for the booking| NOT NULL                       |
+|payment_status| ENUM      | Payment status(e.g 'paid','pending')| NOT NULL                       |
+|created_at    | DATETIME  | Timestamp of booking creation|  DEFAULT CURRENT_TIMESTAMP            |
+|update_at     | DATETIME  | Timestamp of last booking update|DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP|
 
-### 4. Payments Table
 
-![image](https://github.com/user-attachments/assets/28dc6acb-01e6-416f-bc1c-4f77e7e4f08d)
+## 4. Payments Table
 
-### 5. Reviews Table
+|Column Name	|Data Type	|   Description	             |                 Constraints           |
+|--------------|-----------|------------------------------|---------------------------------------|
+|payment_id    | INT       |Unique identifier of payment  | PRIMARY KEY, AUTO_INCREMENT           |
+|booking_id    | INT       |Reference to the related booking| FOREIGN KEY (bookings.booking_id)   |
+|payment_date  | DATETIME  |Date and time of the payment  |  DEFAULT CURRENT_TIMESTAMP            | 
+|amount        | DECIMAL(10,2)| Amount paid               | NOT NULL                              |
+|payment_method| ENUM      | Payment method(e.g, 'credit card','paypal')| NOT NULL                |
+|payment_status| ENUM      | Payment status(e.g,'completed','failed') | NOT NULL                  |
+|transaction_id| VARCHAR(100)| Unique identifier from payment gateway| NULLABLE                   |
 
-![image](https://github.com/user-attachments/assets/282d4fe0-fa1b-4e0e-98f5-4b13651de4ae)
+## 5. Reviews Table
 
-### 6. Admin logs Table
+|Column Name	|Data Type	|   Description	             |                 Constraints           |
+|--------------|-----------|------------------------------|---------------------------------------|
+|review_id     | INT       | Unique identifier for the review|  PRIMARY KEY, AUTO_INCREMENT       |
+|user_id       | INT       | Reference to the user who left the review|FOREIGN KEY(users.user_id) |
+|tour_id       | INT       | Reference to the tour being reviewd|FOREIN KEY(tours.tour_id)        |
+|rating        | INT       | Rating given by the user (e.g, 1-5)| NOT NULL, CHECK (rating >= 1 AND rating <= 5)|
+|comment       | TEXT      | Review comment               | NULLABLE                              |
+|created_at    | DATETIME  | Timestamp of review creation | DEFAULT CURRENT_TIMESTAMP             |
 
-![image](https://github.com/user-attachments/assets/f32b1881-31af-4536-b4f7-99c7a82381ca)
+## 6. Admin logs Table
+
+|Column Name	|Data Type	|   Description	             |                 Constraints           |
+|--------------|-----------|------------------------------|---------------------------------------|
+|log_id        | INT       | Unique identifier for the log entry | PRIMARY KEY, AUTO_INCREMENT    |
+|admin_id      | INT       | Reference to the admin who performed the action| FOREIGN KEY (users.user_id, WHERE user_role ='admin')|
+|action_type   | ENUM      | Type of action performed(e.g, 'update_tour','delete_booking')| NOT NULL|
+|description   | TEXT      | Description of the action    | NOT NULL                               |
+|timestamp     | DATETIME  | Timestamp of the action      | DEFAULT CURRENT_TIMESTAMP              |
 
 
  ## [ERD](https://lucid.app/lucidchart/dcdfd1f5-1a24-4b84-8cff-e7dac1c59a18/edit?viewport_loc=-370%2C20%2C2060%2C1492%2C0_0&invitationId=inv_28f9aeee-77de-4331-b9ce-6522b0b81e26)
